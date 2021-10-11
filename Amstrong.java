@@ -1,8 +1,9 @@
 import java.io.*;
 import java.lang.Math;
 
-class Calc{
+ class Calc{
 
+  // Method count()
      int count(int num){
      int count=0;
      while(num!=0)
@@ -15,7 +16,7 @@ class Calc{
      return count;
      }
 
-    
+   // Method calc() 
     void calc(int start ,int end){ 
     
         int i,j;
