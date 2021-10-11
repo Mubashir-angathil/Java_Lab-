@@ -1,6 +1,6 @@
 import java.io.*;
 import java.lang.Math;
-
+ 
  class Calc{
 
   // Method count()

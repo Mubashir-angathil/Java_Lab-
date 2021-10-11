@@ -2,7 +2,7 @@ import java.io.*;
 public class Fibonacci{
     public static void main(String[] args)throws Exception{
         BufferedReader bf = new Buffereader(new InputStreamReader(System.in));
-     
+      
         System.out.println("\n\nPrint fibonacci series with in a range:");
         System.out.println("________________________________________\n");
         System.out.print("Enter the count :");

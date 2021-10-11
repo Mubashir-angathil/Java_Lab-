@@ -1,5 +1,6 @@
 import java.io.*;
 import java.lang.Math;
+
 class Calc{
  // Function to check whether triangle is Equilateral,Isosceles or Scalene
     void calc(int s1 ,int s2 , int s3)
