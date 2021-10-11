@@ -1,5 +1,5 @@
 import java.io.*;
-class array{
+class Array{
 public static void main(String args[])throws Exception{
     
     BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
