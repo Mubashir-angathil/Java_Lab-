@@ -65,14 +65,15 @@ public class BaseConversion {
     }
     // Main Driver Code
     public static void main(String[] args) {
-        // Entered number to be convert into binary
-        Scanner sc=new Scanner(System.in);
-        System.out.print("Enter Integer :");
-        int num =sc.nextInt();
+        try (// Entered number to be convert into binary
+        Scanner sc = new Scanner(System.in)) {
+            System.out.print("Enter Integer :");
+            int num =sc.nextInt();
 
-        // Calling Our Above Function
-        decimalToBinary(num);
-        decimalToOctal(num);
-        decimalToHexaDecimal(num);
+            // Calling Our Above Function
+            decimalToBinary(num);
+            decimalToOctal(num);
+            decimalToHexaDecimal(num);
+        }
     }
 }

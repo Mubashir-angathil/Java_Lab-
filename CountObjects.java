@@ -17,7 +17,7 @@
             CountObjects obj2 = new CountObjects();
             CountObjects obj3 = new CountObjects();
             CountObjects obj4 = new CountObjects();
-    
+            
             // display count
             System.out.println("Number of objects created : " + CountObjects.count);
         }
