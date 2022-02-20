@@ -1,4 +1,4 @@
 # JAVA LAB PROGRAMS
 # * BCA JAVA LAB Programing list
-# * Applet smileing face screenshort
+# * Applet smiling face screenshort
 # * 20th Lab programs
